@@ -30,8 +30,3 @@ project:
   jupyter:
       binder:
         repo: projectpythia/ocean-bgc-cookbook
-site:
-  options:
-    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
-    folders: true
-  template: book-theme
