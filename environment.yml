@@ -11,10 +11,12 @@ dependencies:
   - ipykernel
   - ipywidgets
   - jupyter-book
-  - jupyterlab>=3
+  - jupyterlab
+  - jupyterlab-myst
   - jupyter_server
   - matplotlib
   - metpy
+  - mystmd
   - nc-time-axis
   - netcdf4
   - numpy
@@ -23,10 +25,7 @@ dependencies:
   - pop-tools
   - python
   - rioxarray
-  - sphinx-pythia-theme
+  - s3fs
   - xarray
   - zarr
   - pip
-  - pip:
-    - s3fs
-  - mystmd
