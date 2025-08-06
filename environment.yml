@@ -22,7 +22,6 @@ dependencies:
   - pandas
   - pip
   - pop-tools
-  - python
   - rioxarray
   - s3fs
   - xarray
