@@ -10,7 +10,6 @@ dependencies:
   - h5netcdf
   - ipykernel
   - ipywidgets
-  - jupyter-book
   - jupyterlab
   - jupyterlab-myst
   - jupyter_server
